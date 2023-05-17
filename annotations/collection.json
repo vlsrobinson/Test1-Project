@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://vlsrobinson.github.io/Test1-Project/annotations/bc9ad0fa1225ff8945f5ceab6f1ff18d.json" ],
+  "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/collection.json",
+  "label" : "All annotations loaded in vlsrobinson/Test1-Project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
