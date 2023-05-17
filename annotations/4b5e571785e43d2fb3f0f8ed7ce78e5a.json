@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Holiday decorations, this was just after Christmas 2022",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Holiday decorations, this was just after Christmas 2022</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/66073994",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-17T20:58:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684357136685",
+    "dcterms:modified" : "2023-05-17T20:58:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=141,1515,1863,644"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M413.55385,1608.99826c172.02472,-54.0792 414.69345,-94.35015 658.53815,-94.30204v0v0c243.8447,0.04811 456.27434,37.72094 658.53815,94.30204c202.26381,56.5811 280.88119,142.79977 272.77543,227.66525c-8.10576,84.86548 -102.93465,168.37777 -272.77543,227.66525c-169.84078,59.28748 -414.69345,94.35015 -658.53815,94.30204c-243.8447,-0.04811 -486.68143,-35.20701 -658.53815,-94.30204c-171.85672,-59.09503 -272.73343,-142.12618 -272.77543,-227.66525c-0.042,-85.53907 100.75072,-173.58605 272.77543,-227.66525z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_e30f0497-85bc-49d3-aebb-c3b8417b2e30\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://10190b1b-7d1d-4143-afad-d24948894285"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hat",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hat</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/66073994",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-17T20:56:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684356995620",
+    "dcterms:modified" : "2023-05-17T20:56:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=509,2269,306,158"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M508.90411,2269.45205h152.89041v0h152.89041v79.24658v79.24658h-152.89041h-152.89041v-79.24658z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c19964ac-20f1-4095-9f3f-67bbf4fe8230\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://10190b1b-7d1d-4143-afad-d24948894285"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Here is a sports game",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Here is a sports game</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/66073994",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-17T20:58:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684357084340",
+    "dcterms:modified" : "2023-05-17T20:58:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1116,2016,651,310"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1116.46575,2016.30137h325.49315v0h325.49315v155.19178v155.19178h-325.49315h-325.49315v-155.19178z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_59ff841a-ca67-4029-9628-18c23f01c8b8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://10190b1b-7d1d-4143-afad-d24948894285"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Neon sign",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Neon sign</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/66073994",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-17T20:58:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684357108211",
+    "dcterms:modified" : "2023-05-17T20:58:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2557,1961,1415,274"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2557.12329,1961.06849h707.52055v0h707.52055v136.78082v136.78082h-707.52055h-707.52055v-136.78082z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7fad4a2a-d4fc-4d2b-b45f-63a551437f74\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://10190b1b-7d1d-4143-afad-d24948894285"
+    } ]
+  } ],
+  "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/4b5e571785e43d2fb3f0f8ed7ce78e5a.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
