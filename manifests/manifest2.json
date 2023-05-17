@@ -1,0 +1,87 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "photographs",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "These are some photographs that I like",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/4.0",
+  "attribution" : "Photographs by Veronica Robinson",
+  "sequences" : [ {
+    "@id" : "http://e5692877-1ee0-487d-a5f2-7668fd557e3f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingHint" : "paged",
+    "canvases" : [ {
+      "@id" : "http://10190b1b-7d1d-4143-afad-d24948894285",
+      "@type" : "sc:Canvas",
+      "label" : "Dunwoody",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://ca660708-ef3d-4c11-9e65-cd60e7cfa41e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/party_20230516/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/party_20230516",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://10190b1b-7d1d-4143-afad-d24948894285"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8eba69bc-7c7b-4cd0-b394-77db1ad41ac5",
+      "@type" : "sc:Canvas",
+      "label" : "Lake Michigan",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2a04a699-4f76-46bc-8a12-d99d66d86b75",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/pxl-20230516-193408592/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/pxl-20230516-193408592",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://8eba69bc-7c7b-4cd0-b394-77db1ad41ac5"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://10190b1b-7d1d-4143-afad-d24948894285" ]
+  } ]
+}
