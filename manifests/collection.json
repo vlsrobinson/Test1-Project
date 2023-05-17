@@ -1,0 +1,13 @@
+{
+  "id" : "https://vlsrobinson.github.io/Test1-Project/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in vlsrobinson/Test1-Project project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest2.json",
+    "label" : "photographs"
+  } ]
+}
