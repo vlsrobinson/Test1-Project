@@ -1,0 +1,161 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A remix of photos taken in 2022-2023 and historic postcards of Lake Michigan from Evanston, Illinois",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://d72969fb-ca5e-4486-8f6f-cba56d32b1d3",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://126ffa58-608c-44be-81a9-a7b855f76d82",
+      "@type" : "sc:Canvas",
+      "label" : "Lake Michigan, Evanston, Illinois",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3b26829e-338b-45b3-b665-4f339a2dda91",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/pxl-20230228-140132963/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/pxl-20230228-140132963",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://126ffa58-608c-44be-81a9-a7b855f76d82"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5acfc013-611a-445a-8845-bd25845d3660",
+      "@type" : "sc:Canvas",
+      "label" : "Lake Michigan, from Northwestern University, University Archives Postcards",
+      "height" : 3282,
+      "width" : 4319,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f78d18a1-eb34-4375-b2d9-10c5aacfd973",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.dc.library.northwestern.edu/iiif/2/14cdd980-c070-4b69-a79c-466f9e101936/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.dc.library.northwestern.edu/iiif/2/14cdd980-c070-4b69-a79c-466f9e101936",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "jpeg", "tif", "tiff", "png", "webp" ],
+              "qualities" : [ "color", "gray", "bitonal", "default" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3282,
+          "width" : 4319
+        },
+        "on" : "http://5acfc013-611a-445a-8845-bd25845d3660"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://ef8cd039-d99a-4d60-8c91-a3efc65302c6",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f2194f4b-97ba-4427-a0fc-b0f163f7f879",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/pxl-20221214-182804413/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/pxl-20221214-182804413",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://ef8cd039-d99a-4d60-8c91-a3efc65302c6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d7f203ab-9fa4-490b-971e-abbe395fd510",
+      "@type" : "sc:Canvas",
+      "label" : "Lake Michigan, from Northwestern Campus, University Archives Postcard Collection",
+      "height" : 3336,
+      "width" : 4341,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c2c528ba-f7f0-428e-8e91-c52ad715b837",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.dc.library.northwestern.edu/iiif/2/88c2c1ce-f701-46a3-82c9-8e1d1387fc47/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.dc.library.northwestern.edu/iiif/2/88c2c1ce-f701-46a3-82c9-8e1d1387fc47",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "jpeg", "tif", "tiff", "png", "webp" ],
+              "qualities" : [ "color", "gray", "bitonal", "default" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 3336,
+          "width" : 4341
+        },
+        "on" : "http://d7f203ab-9fa4-490b-971e-abbe395fd510"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://67e97995-cae3-4c19-8345-f2757f4a88c1",
+      "@type" : "sc:Canvas",
+      "label" : "Lake Michigan, Evanston, Illinois",
+      "height" : 3024,
+      "width" : 4032,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9df14f05-afae-4b6c-82b2-7324b6f88f7e",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://iiif.archivelab.org/iiif/pxl-20230516-193408592/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://iiif.archivelab.org/iiif/pxl-20230516-193408592",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json" ]
+          },
+          "height" : 3024,
+          "width" : 4032
+        },
+        "on" : "http://67e97995-cae3-4c19-8345-f2757f4a88c1"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
