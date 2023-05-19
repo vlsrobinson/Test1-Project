@@ -42,6 +42,11 @@
         },
         "on" : "http://126ffa58-608c-44be-81a9-a7b855f76d82"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/1_d0adb4ec3bc506fdd884270625590961.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Lake Michigan Annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://5acfc013-611a-445a-8845-bd25845d3660",
@@ -72,6 +77,11 @@
         },
         "on" : "http://5acfc013-611a-445a-8845-bd25845d3660"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/2_b267c15cdea3d667b4c9700ceaa40dc0.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Lake Michigan Annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://ef8cd039-d99a-4d60-8c91-a3efc65302c6",
@@ -97,6 +107,11 @@
           "width" : 4032
         },
         "on" : "http://ef8cd039-d99a-4d60-8c91-a3efc65302c6"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/3_f4f71580b4c29724253686303eabdc60.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
@@ -128,6 +143,11 @@
         },
         "on" : "http://d7f203ab-9fa4-490b-971e-abbe395fd510"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/4_5082d321911ac5b21e936aa727edf80b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Lake Michigan Annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://67e97995-cae3-4c19-8345-f2757f4a88c1",
@@ -153,6 +173,11 @@
           "width" : 4032
         },
         "on" : "http://67e97995-cae3-4c19-8345-f2757f4a88c1"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/5-4420aae6a9540a0b2ed89670956a3649.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Lake Michigan Annotations"
       } ],
       "related" : ""
     } ]
