@@ -2,14 +2,14 @@
   "@context" : "http://iiif.io/api/presentation/2/context.json",
   "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json",
   "@type" : "sc:Manifest",
-  "label" : "[Click to edit label]",
+  "label" : "Views of the Lake",
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A remix of photos taken in 2022-2023 and historic postcards of Lake Michigan from Evanston, Illinois",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "[Click to edit attribution]",
+  "attribution" : "Photos by Veronica Robinson and Northwestern University",
   "sequences" : [ {
     "@id" : "http://d72969fb-ca5e-4486-8f6f-cba56d32b1d3",
     "@type" : "sc:Sequence",
