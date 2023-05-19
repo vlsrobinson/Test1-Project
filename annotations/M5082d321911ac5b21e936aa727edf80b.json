@@ -1,0 +1,39 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "It is a windy day, hold on to that fancy hat!",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>It is a windy day, hold on to that fancy hat!</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/66073994",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-18T21:10:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684444225546",
+    "dcterms:modified" : "2023-05-18T21:10:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1556,990,916,432"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1556.13836,989.66027h457.9863v0h457.9863v215.78356v215.78356h-457.9863h-457.9863v-215.78356z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4d48aa5e-6a37-41c9-8e84-9b2aa158740c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d7f203ab-9fa4-490b-971e-abbe395fd510"
+    } ]
+  } ],
+  "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/M5082d321911ac5b21e936aa727edf80b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
