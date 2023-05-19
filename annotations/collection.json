@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://vlsrobinson.github.io/Test1-Project/annotations/bc9ad0fa1225ff8945f5ceab6f1ff18d.json", "https://vlsrobinson.github.io/Test1-Project/annotations/4b5e571785e43d2fb3f0f8ed7ce78e5a.json", "https://vlsrobinson.github.io/Test1-Project/annotations/1_d0adb4ec3bc506fdd884270625590961.json" ],
+  "otherContent" : [ "https://vlsrobinson.github.io/Test1-Project/annotations/bc9ad0fa1225ff8945f5ceab6f1ff18d.json", "https://vlsrobinson.github.io/Test1-Project/annotations/4b5e571785e43d2fb3f0f8ed7ce78e5a.json", "https://vlsrobinson.github.io/Test1-Project/annotations/1_d0adb4ec3bc506fdd884270625590961.json", "https://vlsrobinson.github.io/Test1-Project/annotations/2_b267c15cdea3d667b4c9700ceaa40dc0.json" ],
   "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/collection.json",
   "label" : "All annotations loaded in vlsrobinson/Test1-Project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
