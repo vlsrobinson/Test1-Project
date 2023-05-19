@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Clark Street Beach, Evanston, Illinois&nbsp; <a href=\"https://www.google.com/maps/place/Clark+Street+Beach/@42.0493606,-87.672527,18z/data=!3m1!4b1!4m6!3m5!1s0x880fd073fcd437db:0xf08cfe26630b04ea!8m2!3d42.0493297!4d-87.6727996!16s%2Fg%2F1tklr4c9\" target=\"_blank\" rel=\"noopener\">Map of the Beach",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Clark Street Beach, Evanston, Illinois&nbsp; <a href=\"https://www.google.com/maps/place/Clark+Street+Beach/@42.0493606,-87.672527,18z/data=!3m1!4b1!4m6!3m5!1s0x880fd073fcd437db:0xf08cfe26630b04ea!8m2!3d42.0493297!4d-87.6727996!16s%2Fg%2F1tklr4c9\" target=\"_blank\" rel=\"noopener\">Map of the Beach</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/66073994",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-18T21:08:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684444122462",
+    "dcterms:modified" : "2023-05-18T21:09:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2727,1725,984,449"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2726.50411,1725.40822h491.88219v0h491.88219v224.69315v224.69315h-491.88219h-491.88219v-224.69315z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d4aa04cd-2ce4-4b00-ad5e-77fa2fb07570\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"4.14247\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef8cd039-d99a-4d60-8c91-a3efc65302c6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Lake is moody today",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Lake is moody today</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/66073994",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-18T21:08:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684444085547",
+    "dcterms:modified" : "2023-05-18T21:08:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1210,1295,698,226"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1210.36164,1294.59178h348.96712v0h348.96712v112.84658v112.84658h-348.96712h-348.96712v-112.84658z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_da8f07b7-d7b6-4a61-a8af-3bfade45d6f1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef8cd039-d99a-4d60-8c91-a3efc65302c6"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lifeguard station, stored for the winter",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lifeguard station, stored for the winter</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/66073994",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-05-18T21:07:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1684444063542",
+    "dcterms:modified" : "2023-05-18T21:07:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=274,1659,1949,839"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M274.16438,1659.12877h974.47945v0h974.47945v419.38904v419.38904h-974.47945h-974.47945v-419.38904z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_997c7e42-8a00-4b26-ad82-d747fdf487e1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ef8cd039-d99a-4d60-8c91-a3efc65302c6"
+    } ]
+  } ],
+  "@id" : "https://vlsrobinson.github.io/Test1-Project/annotations/3_f4f71580b4c29724253686303eabdc60.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
