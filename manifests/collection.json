@@ -13,5 +13,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifest3.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://vlsrobinson.github.io/Test1-Project/manifests/manifestM1.json",
+    "label" : "[Click to edit label]"
   } ]
 }
